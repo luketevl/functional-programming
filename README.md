@@ -5,6 +5,7 @@ Learn about functional programming
 - https://www.quora.com/What-is-a-side-effect-in-programming
 - https://egghead.io/lessons/javascript-redux-pure-and-impure-functions
 - https://wiki.haskell.org/Pointfree
+- https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.g1itz0qga
 
 ## Pure Functions
 - Have **inputs** and **outputs** well defined
